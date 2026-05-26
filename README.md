@@ -1,136 +1,108 @@
-# Professional GitHub README
-
-```md
-<h1 align="center">Hi 👋, I'm Meghna Mahajan</h1>
-
-<h3 align="center">
-💻 Computer Science Undergraduate | AI & Full Stack Enthusiast | Open to Freelance & Team Projects
-</h3>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Meghna Mahajan</h1>
+<h3 align="center">CS Undergrad |Open to Freelance & Team Projects</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+%26+Full+Stack+Developer;Building+Real+World+Projects;Open+to+Collaborations+%26+Internships;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+  <a href="https://komarev.com/ghpvc/?username=Meghnamahajan">
+    <img src="https://komarev.com/ghpvc/?username=Meghnamahajan&label=Profile%20views&color=00FFFF&style=flat-square" alt="Meghnamahajan's profile views" />
+  </a>
 </p>
 
----
+<img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzk3Nzk0ODAsIm5iZiI6MTc3OTc3OTE4MCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTI2VDA3MDYyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYxZGI0YTE4MTYzZDE5YjdmZGU0MDQwZDZmMTJhZmZlZDI4MzI3OGFmMTVmYWEzY2VkOTdjMTllMjJkYjc5ZjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.qsxR2uv1Wl6PuKjUvhKr8_KZYJMnA2-FTHO1e9cnYgU" alt="Banner" width="100%" />
 
-## 🖤 About Me
+## 📌 About Me
+- Currently learning and finding pace in full stack  and AI Ml
+- Open to collaborate into the real world projects and make a revolution
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 Currently learning **AIML, Agentic AI & Cloud Technologies**
-- 💡 Passionate about **Web Development, AI Solutions & Open Source**
-- 🤝 Open to **Freelance Projects, Internships & Collaborations**
-- 📫 Reach me at: **meghnamahajan08@gmail.com**
-- ⚡ Fun fact: *I love building impactful tech projects*
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Meghnamahajan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Meghnamahajan&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Meghnamahajan's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Meghnamahajan&theme=radical&hide_border=true&cache_seconds=86400" alt="Meghnamahajan's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Meghnamahajan&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Meghna Mahajan's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Meghnamahajan&theme=radical&radius=10" alt="Meghnamahajan's Activity Graph" />
+</p>
 
-<br><br>
 
----
+## 🛠️ Languages & Tools
 
-# 🌐 Connect With Me
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" />&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />
+
+</p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/meghnamahajan" target="blank">
-<img src="https://skillicons.dev/icons?i=github" height="55" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:meghnamahajan08@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55" />
-</a>
+  <a href="https://github.com/Meghnamahajan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Meghnamahajan&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
----
-
-# ⚒️ Tech Stack
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;
+  <a href="mailto:meghnamahajan08@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
 
 <div align="center">
-
-### 👨‍💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,php&theme=dark" />
-
-### 🌐 Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,vue,svelte&theme=dark" />
-
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,oracle&theme=dark" />
-
-### ☁️ Cloud & Tools
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,git,linux,bash&theme=dark" />
-
-### 🤖 AI / ML
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
-
-### 🎨 Design Tools
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,sketch,framer&theme=dark" />
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=meghnamahajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=meghnamahajan&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=C9D1D9" />
-</p>
-
-<p align="center">
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghnamahajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=meghnamahajan&theme=algolia&no-frame=true&margin-w=15&row=1" />
-</p>
-
----
-
-# 💻 Coding Vibes
-
-<p align="center">
-<img width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-<img width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
-</p>
-
----
-
-# 🚀 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meghnamahajan&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
-# ✨ Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-# ☕ Support Me
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/meghnamahajan">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="230" />
-</a>
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=meghnamahajan&label=Profile+Views&color=58A6FF&style=for-the-badge" />
-</p>
-```
-
-Replace `YOUR-LINKEDIN` with your actual LinkedIn username/profile link before uploading it to GitHub.
